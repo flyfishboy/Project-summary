@@ -1,0 +1,9 @@
+在一个java原文件中，import, class, package语句的顺序是_____。
+
+A.        import class package
+
+B.        class import package
+
+C.        package class import
+
+D.        package import class

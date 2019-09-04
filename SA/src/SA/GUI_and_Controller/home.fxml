@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+
+<AnchorPane fx:id="rootpane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1080.0" prefWidth="1920.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="SA.GUI_and_Controller.home_controller">
+    <children>
+      <ImageView fitHeight="1080.0" fitWidth="1920.0">
+         <image>
+            <Image url="@选择对战.jpg" />
+         </image>
+      </ImageView>
+        <Button layoutX="104.0" layoutY="961.0" mnemonicParsing="false" onAction="#shutdownWindows" prefHeight="52.0" prefWidth="111.0" style="-fx-background-radius: 100; -fx-background-color: #57a4ae; -fx-border-color: #c5a460; -fx-border-radius: 100;" text="关机" textFill="#282725" AnchorPane.bottomAnchor="67.0" AnchorPane.leftAnchor="104.0">
+         <font>
+            <Font size="19.0" />
+         </font></Button>
+        <Button fx:id="denglu" layoutX="1399.0" layoutY="141.0" mnemonicParsing="false" onAction="#denglujishi" prefHeight="62.0" prefWidth="163.0" style="-fx-background-radius: 100; -fx-background-color: #79d6e0; -fx-border-color: #ccb99b; -fx-border-radius: 100;" text="play" textFill="#13463d" AnchorPane.bottomAnchor="877.0" AnchorPane.leftAnchor="1399.0" AnchorPane.rightAnchor="358.0" AnchorPane.topAnchor="141.0">
+         <font>
+            <Font name="System Bold" size="25.0" />
+         </font></Button>
+        <Label fx:id="timeshow" layoutX="1109.0" layoutY="54.0" prefHeight="20.0" prefWidth="416.0" text="时间：">
+         <font>
+            <Font size="20.0" />
+         </font></Label>
+      <Button fx:id="zuoti" layoutX="1399.0" layoutY="249.0" mnemonicParsing="false" onAction="#zuoti" prefHeight="62.0" prefWidth="163.0" style="-fx-background-radius: 100; -fx-background-color: #79d6e0; -fx-border-color: #ccb99b; -fx-border-radius: 100;" text="做题" textFill="#13463d" AnchorPane.bottomAnchor="769.0" AnchorPane.leftAnchor="1399.0" AnchorPane.rightAnchor="358.0" AnchorPane.topAnchor="249.0">
+         <font>
+            <Font name="System Bold Italic" size="21.0" />
+         </font></Button>
+      <Button layoutX="1399.0" layoutY="353.0" mnemonicParsing="false" onAction="#getAchievement" prefHeight="62.0" prefWidth="163.0" style="-fx-background-radius: 100; -fx-background-color: #79d6e0; -fx-border-color: #ccb99b; -fx-border-radius: 100;" text="成就" textFill="#13463d" AnchorPane.bottomAnchor="665.0" AnchorPane.leftAnchor="1399.0" AnchorPane.rightAnchor="358.0" AnchorPane.topAnchor="353.0">
+         <font>
+            <Font name="System Bold" size="21.0" />
+         </font></Button>
+      <Label fx:id="tip" layoutX="1430.0" layoutY="540.0" text="提示信息">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Label>
+      <Label fx:id="hello" layoutX="1554.0" layoutY="33.0" prefHeight="70.0" prefWidth="299.0" text="欢饮你，XXX同学">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+    </children>
+</AnchorPane>

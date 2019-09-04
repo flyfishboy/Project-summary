@@ -1,0 +1,5 @@
+﻿Lily was so ___looking at the picture that she forgot the time.
+A,carefully
+B,careful
+C,busily
+D,busy
