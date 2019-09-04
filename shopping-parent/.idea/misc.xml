@@ -28,6 +28,7 @@
         <option value="$PROJECT_DIR$/sellergoods-interface/pom.xml" />
         <option value="$PROJECT_DIR$/sellergoods-service/pom.xml" />
         <option value="$PROJECT_DIR$/shop-web/pom.xml" />
+        <option value="$PROJECT_DIR$/security/pom.xml" />
       </list>
     </option>
   </component>
