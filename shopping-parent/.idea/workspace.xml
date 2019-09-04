@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29374c32-f433-459f-a11a-cf9091b7d8bc" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/pojo/target/" />
+    <ignored path="$PROJECT_DIR$/dao/target/" />
+    <ignored path="$PROJECT_DIR$/generatemybatisfile/target/" />
+    <ignored path="$PROJECT_DIR$/cart-interface/target/" />
+    <ignored path="$PROJECT_DIR$/cart-service/target/" />
+    <ignored path="$PROJECT_DIR$/cart-web/target/" />
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <ignored path="$USER_HOME$/Desktop/shopping-parent_0829/shopping-parent/content-interface/target/" />
+    <ignored path="$PROJECT_DIR$/content-interface/target/" />
+    <ignored path="$PROJECT_DIR$/content-service/target/" />
+    <ignored path="$PROJECT_DIR$/item-web/target/" />
+    <ignored path="$PROJECT_DIR$/manager-web/target/" />
+    <ignored path="$PROJECT_DIR$/order-interface/target/" />
+    <ignored path="$PROJECT_DIR$/order-service/target/" />
+    <ignored path="$PROJECT_DIR$/order-web/target/" />
+    <ignored path="$PROJECT_DIR$/passport-interface/target/" />
+    <ignored path="$PROJECT_DIR$/passport-service/target/" />
+    <ignored path="$PROJECT_DIR$/passport-web/target/" />
+    <ignored path="$PROJECT_DIR$/portal-web/target/" />
+    <ignored path="$PROJECT_DIR$/search-interface/target/" />
+    <ignored path="$PROJECT_DIR$/search-service/target/" />
+    <ignored path="$PROJECT_DIR$/search-web/target/" />
+    <ignored path="$PROJECT_DIR$/sellergoods-interface/target/" />
+    <ignored path="$PROJECT_DIR$/sellergoods-service/target/" />
+    <ignored path="$PROJECT_DIR$/shop-web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manager-web/src/main/resources/static/js/service/specificationService.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manager-web/src/main/resources/static/admin/specification.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="126" column="101" selection-start-line="126" selection-start-column="101" selection-end-line="126" selection-end-column="101" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pojo/src/main/java/com/nchu/model/SpecificationOption.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="828">
+              <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+              <folding>
+                <element signature="e#781#782#0" expanded="true" />
+                <element signature="e#817#818#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manager-web/src/main/java/com/nchu/manager/controller/SpecificationController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#929#930#0" expanded="true" />
+                <element signature="e#992#993#0" expanded="true" />
+                <element signature="e#1768#1769#0" expanded="true" />
+                <element signature="e#1816#1817#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manager-web/src/main/resources/static/js/controller/specificationOptionController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sellergoods-service/src/main/java/com/nchu/sellergoods/service/impl/SpecificationServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="94" column="29" selection-start-line="94" selection-start-column="29" selection-end-line="94" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manager-web/src/main/resources/static/js/controller/specificationController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>enableCountByExample=&quot;true&quot; enableUpdateByExample=&quot;true&quot; enableDeleteByExample=&quot;true&quot; enableSelectByExample=&quot;true&quot; selectByExampleQueryId=&quot;true&quot;</find>
+      <find>enableCountByExample=&quot;false&quot; enableUpdateByExample=&quot;false&quot; enableDeleteByExample=&quot;false&quot; enableSelectByExample=&quot;false&quot; selectByExampleQueryId=&quot;false&quot;</find>
+      <find>`</find>
+      <find>Cities</find>
+      <find>Areas</find>
+      <find>Option</find>
+      <find>.do</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>enableCountByExample=&quot;true&quot; enableUpdateByExample=&quot;true&quot; enableDeleteByExample=&quot;true&quot; enableSelectByExample=&quot;true&quot; selectByExampleQueryId=&quot;true&quot;</replace>
+      <replace>City</replace>
+      <replace>Area</replace>
+      <replace>SpecificationOption</replace>
+      <replace>specificationOption</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dao/src/main/java/com/nchu/mapper/BrandMapper.java" />
+        <option value="$PROJECT_DIR$/dao/src/main/java/com/nchu/mapper/CityMapper.java" />
+        <option value="$PROJECT_DIR$/dao/src/main/java/com/nchu/mapper/ContentCategoryMapper.java" />
+        <option value="$PROJECT_DIR$/dao/src/test/java/com/nchu/dao/DaoApplicationTests.java" />
+        <option value="$PROJECT_DIR$/dao/src/main/java/com/nchu/mapper/AddressMapper.java" />
+        <option value="$PROJECT_DIR$/dao/src/main/java/com/nchu/DaoApplication.java" />
+        <option value="$PROJECT_DIR$/dao/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/pojo/src/main/java/com/nchu/PojoApplication.java" />
+        <option value="$PROJECT_DIR$/pojo/src/main/java/com/nchu/model/Area.java" />
+        <option value="$PROJECT_DIR$/cart-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/cart-web/pom.xml" />
+        <option value="$PROJECT_DIR$/sellergoods-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoodsinterface/service/BrandService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/sellergoods-service/pom.xml" />
+        <option value="$PROJECT_DIR$/sellergoods-service/src/main/java/com/nchu/sellergoods/SellergoodsServiceApplication.java" />
+        <option value="$PROJECT_DIR$/manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/manager-web/src/main/java/com/nchu/managerweb/controller/BrandController.java" />
+        <option value="$PROJECT_DIR$/manager-web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/pojo/src/main/java/com/nchu/model/Brand.java" />
+        <option value="$PROJECT_DIR$/sellergoods-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/pojo/src/main/java/com/nchu/model/PageResult.java" />
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/pojo/src/main/java/com/nchu/model/Result.java" />
+        <option value="$PROJECT_DIR$/manager-web/src/main/resources/static/js/base.js" />
+        <option value="$PROJECT_DIR$/manager-web/src/main/resources/static/js/base_pagination.js" />
+        <option value="$PROJECT_DIR$/manager-web/src/main/resources/static/js/service/brandservice.js" />
+        <option value="$PROJECT_DIR$/sellergoods-service/src/main/java/com/nchu/sellergoods/com/nchu/sellergoodsservice/SellergoodsServiceApplication.java" />
+        <option value="$PROJECT_DIR$/manager-web/src/main/resources/static/js/controller/basecontroller.js" />
+        <option value="$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/BrandService.java" />
+        <option value="$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/CitiesService.java" />
+        <option value="$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/AreasService.java" />
+        <option value="$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/AreaService.java" />
+        <option value="$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/UserService.java" />
+        <option value="$PROJECT_DIR$/sellergoods-service/src/main/java/com/nchu/sellergoods/service/impl/AreaServiceImpl.java" />
+        <option value="$PROJECT_DIR$/manager-web/src/main/java/com/nchu/manager/controller/OptionController.java" />
+        <option value="$PROJECT_DIR$/manager-web/src/main/resources/static/js/service/specificationOptionService.js" />
+        <option value="$PROJECT_DIR$/manager-web/src/main/resources/static/js/controller/optionController.js" />
+        <option value="$PROJECT_DIR$/pojo/src/main/java/com/nchu/model/SpecificationOption.java" />
+        <option value="$PROJECT_DIR$/manager-web/src/main/resources/static/js/controller/brandcontroller.js" />
+        <option value="$PROJECT_DIR$/sellergoods-service/src/main/java/com/nchu/sellergoods/service/impl/BrandServiceImpl.java" />
+        <option value="$PROJECT_DIR$/manager-web/src/main/java/com/nchu/manager/controller/BrandController.java" />
+        <option value="$PROJECT_DIR$/manager-web/src/main/resources/static/admin/brand.html" />
+        <option value="$PROJECT_DIR$/manager-web/src/main/resources/static/js/controller/specificationController.js" />
+        <option value="$PROJECT_DIR$/manager-web/src/main/resources/static/js/service/specificationService.js" />
+        <option value="$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/SpecificationService.java" />
+        <option value="$PROJECT_DIR$/pojo/src/main/java/com/nchu/model/Specification.java" />
+        <option value="$PROJECT_DIR$/sellergoods-service/src/main/java/com/nchu/sellergoods/service/impl/SpecificationServiceImpl.java" />
+        <option value="$PROJECT_DIR$/manager-web/src/main/java/com/nchu/manager/controller/SpecificationController.java" />
+        <option value="$PROJECT_DIR$/manager-web/src/main/resources/static/admin/specification.html" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="dao" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="dao" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="pojo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="pojo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sellergoods-interface" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sellergoods-interface" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sellergoods-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sellergoods-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="37" />
+    <option name="y" value="122" />
+    <option name="width" value="1555" />
+    <option name="height" value="793" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nchu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nchu" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="sellergoods-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="sellergoods-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="sellergoods-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="sellergoods-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="sellergoods-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sellergoods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="sellergoods-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sellergoods" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="sellergoods-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567578305090" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shop-web" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.nchu" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\nchu2019\shopping-parent\manager-web\src\main\resources\static\js\controller" />
+      <recent name="H:\nchu2019\shopping-parent\manager-web\src\main\resources\static\js\service" />
+      <recent name="H:\nchu2019\shopping-parent\manager-web\src\main\java\com\nchu\manager\controller" />
+      <recent name="H:\nchu2019\shopping-parent\dao\src\main\java\com\nchu\mapper" />
+      <recent name="H:\nchu2019\shopping-parent\sellergoods-service\src\main\java\com\nchu\sellergoods\service\impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nchu.pojo.model" />
+      <recent name="com.nchu.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\nchu2019\shopping-parent" />
+      <recent name="H:\nchu2019\shopping-parent\dao\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.2625216" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SellergoodsServiceApplication">
+    <configuration name="DaoApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nchu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nchu.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.nchu.dao.DaoApplicationTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nchu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nchu.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.nchu.dao.DaoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="true" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/generatemybatisfile" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="CartInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cart-interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.cartinterface.CartInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cart-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.cartservice.CartServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cart-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.cartweb.CartWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.common.CommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContentInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="content-interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.contentinterface.ContentInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContentServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="content-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.contentservice.ContentServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dao" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.DaoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeneratemybatisfileApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="generatemybatisfile" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.generatemybatisfile.GeneratemybatisfileApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="item-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.itemweb.ItemWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="manager-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.manager.ManagerWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.orderinterface.OrderInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.orderservice.OrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.orderweb.OrderWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassportInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="passport-interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.passportinterface.PassportInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassportServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="passport-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.passportservice.PassportServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassportWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="passport-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.passportweb.PassportWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PojoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pojo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.PojoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PortalWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="portal-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.portalweb.PortalWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="search-interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.searchinterface.SearchInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="search-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.searchservice.SearchServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="search-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.searchweb.SearchWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellergoodsInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sellergoods-interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.sellergoods.SellergoodsInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellergoodsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sellergoods-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.sellergoods.SellergoodsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.shopweb.ShopWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DaoApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.DaoApplicationTests" />
+      <item itemvalue="Maven.generator" />
+      <item itemvalue="Spring Boot.DaoApplication" />
+      <item itemvalue="Spring Boot.GeneratemybatisfileApplication" />
+      <item itemvalue="Spring Boot.PojoApplication" />
+      <item itemvalue="Spring Boot.CartInterfaceApplication" />
+      <item itemvalue="Spring Boot.CartServiceApplication" />
+      <item itemvalue="Spring Boot.CartWebApplication" />
+      <item itemvalue="Spring Boot.CommonApplication" />
+      <item itemvalue="Spring Boot.ContentInterfaceApplication" />
+      <item itemvalue="Spring Boot.ItemWebApplication" />
+      <item itemvalue="Spring Boot.PassportServiceApplication" />
+      <item itemvalue="Spring Boot.PortalWebApplication" />
+      <item itemvalue="Spring Boot.PassportWebApplication" />
+      <item itemvalue="Spring Boot.PassportInterfaceApplication" />
+      <item itemvalue="Spring Boot.SearchWebApplication" />
+      <item itemvalue="Spring Boot.SellergoodsInterfaceApplication" />
+      <item itemvalue="Spring Boot.OrderInterfaceApplication" />
+      <item itemvalue="Spring Boot.SellergoodsServiceApplication" />
+      <item itemvalue="Spring Boot.ManagerWebApplication" />
+      <item itemvalue="Spring Boot.SearchInterfaceApplication" />
+      <item itemvalue="Spring Boot.OrderServiceApplication" />
+      <item itemvalue="Spring Boot.OrderWebApplication" />
+      <item itemvalue="Spring Boot.ShopWebApplication" />
+      <item itemvalue="Spring Boot.SearchServiceApplication" />
+      <item itemvalue="Spring Boot.ContentServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DaoApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29374c32-f433-459f-a11a-cf9091b7d8bc" name="Default Changelist" comment="" />
+      <created>1566960121347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566960121347</updated>
+      <workItem from="1566960127165" duration="14567000" />
+      <workItem from="1567041162580" duration="23548000" />
+      <workItem from="1567127185890" duration="19182000" />
+      <workItem from="1567386986814" duration="8843000" />
+      <workItem from="1567408424678" duration="592000" />
+      <workItem from="1567411684215" duration="6432000" />
+      <workItem from="1567473102650" duration="15051000" />
+      <workItem from="1567501804339" duration="18132000" />
+      <workItem from="1567558976977" duration="12179000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 10h 12m 05s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoApplicationTests - 2019.08.29 at 10h 17m 29s.xml">
+      <configuration name="DaoApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 10h 20m 33s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 10h 23m 29s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 10h 30m 35s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 11h 13m 00s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 11h 16m 45s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 11h 21m 51s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 11h 24m 29s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 11h 27m 03s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="118526000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21782842" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39051604" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32906765" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32906765" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32906765" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.31101814" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32723948" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.30822873" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.13739946" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://H:/autocode2/HeimaCodeUtil_V2.4_32/模板/SSM+dubbox+angularJS(服务层+WEB层)/工程模板/[path_2]-[path_3]-interface/src/main/java/[path_1]/[path_2]/[path_3]/service/[Table2]Service.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-service/src/main/java/com/nchu/sellergoods/SellergoodsServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/CategoryService.java" />
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/CityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/ContentCategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/ContentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/GoodsDescService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/GoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/ItemCatService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/ItemService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/PayLogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/SellerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/SpecificationOptionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/TypeTemplateService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pojo/src/main/java/com/nchu/model/UserExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/resources/mapping/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/AddressService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-578">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/ProvinceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-699">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-service/src/main/java/com/nchu/sellergoods/service/impl/AddressServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-751">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/nchu/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/nchu/mapper/AreaMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-service/src/main/java/com/nchu/sellergoods/service/impl/AreaServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="76" column="33" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/AreaService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-598">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1231" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/nchu/mapper/ProvinceMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-service/src/main/java/com/nchu/sellergoods/service/impl/ProvinceServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="67" column="40" selection-start-line="67" selection-start-column="40" selection-end-line="67" selection-end-column="40" />
+          <folding>
+            <element signature="e#1391#1392#0" expanded="true" />
+            <element signature="e#1442#1443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-web/src/main/java/com/nchu/manager/controller/SpecificationOptionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1883#1884#0" expanded="true" />
+            <element signature="e#1937#1938#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-service/src/main/java/com/nchu/sellergoods/service/impl/SpecificationOptionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1007">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pojo/src/main/java/com/nchu/model/Brand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-web/src/main/resources/static/js/base.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pojo/src/main/java/com/nchu/model/SpecificationExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pojo/src/main/java/com/nchu/model/BrandExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-web/src/main/resources/static/js/service/specificationOptionService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-143">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-web/src/main/resources/static/js/controller/basecontroller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-web/src/main/resources/static/js/controller/brandcontroller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="133" selection-start-line="14" selection-start-column="118" selection-end-line="14" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/BrandService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-interface/src/main/java/com/nchu/sellergoods/service/SpecificationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="33" column="101" selection-start-line="33" selection-start-column="101" selection-end-line="33" selection-end-column="101" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-web/src/main/resources/static/js/service/brandservice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-web/src/main/java/com/nchu/manager/controller/BrandController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="114" column="31" selection-start-line="114" selection-start-column="31" selection-end-line="114" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-web/src/main/resources/static/admin/brand.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="49" column="112" selection-start-line="49" selection-start-column="82" selection-end-line="49" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-service/src/main/java/com/nchu/sellergoods/service/impl/BrandServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="40" column="76" selection-start-line="40" selection-start-column="76" selection-end-line="40" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#1659#1660#0" expanded="true" />
+            <element signature="e#1715#1716#0" expanded="true" />
+            <element signature="e#1767#1768#0" expanded="true" />
+            <element signature="e#1824#1825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pojo/src/main/java/com/nchu/model/Specification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sellergoods-service/src/main/java/com/nchu/sellergoods/service/impl/SpecificationServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="94" column="29" selection-start-line="94" selection-start-column="29" selection-end-line="94" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-web/src/main/resources/static/js/service/specificationService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-web/src/main/resources/static/js/controller/specificationOptionController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-web/src/main/resources/static/js/controller/specificationController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pojo/src/main/java/com/nchu/model/SpecificationOption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+          <folding>
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-web/src/main/java/com/nchu/manager/controller/SpecificationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1768#1769#0" expanded="true" />
+            <element signature="e#1816#1817#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-web/src/main/resources/static/admin/specification.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="126" column="101" selection-start-line="126" selection-start-column="101" selection-end-line="126" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>shop-web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

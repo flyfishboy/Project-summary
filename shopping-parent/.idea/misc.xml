@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/dao/pom.xml" />
+        <option value="$PROJECT_DIR$/generatemybatisfile/pom.xml" />
+        <option value="$PROJECT_DIR$/cart-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/cart-web/pom.xml" />
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/content-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/item-web/pom.xml" />
+        <option value="$PROJECT_DIR$/manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/order-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/order-web/pom.xml" />
+        <option value="$PROJECT_DIR$/passport-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/passport-service/pom.xml" />
+        <option value="$PROJECT_DIR$/passport-web/pom.xml" />
+        <option value="$PROJECT_DIR$/portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/search-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/search-web/pom.xml" />
+        <option value="$PROJECT_DIR$/sellergoods-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/sellergoods-service/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
