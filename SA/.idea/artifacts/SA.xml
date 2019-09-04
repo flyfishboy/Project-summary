@@ -1,0 +1,38 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="SA">
+    <output-path>$PROJECT_DIR$/out/artifacts/SA</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="SA.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="SA.jar">
+        <element id="module-output" name="SA" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+      <element id="directory" name="driver">
+        <element id="extracted-dir" path="$PROJECT_DIR$/driver/javax.mail.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$PROJECT_DIR$/driver/mysql-connector-java-5.1.46.jar" path-in-jar="/" />
+        <element id="dir-copy" path="$PROJECT_DIR$/driver" />
+      </element>
+      <element id="directory" name="item">
+        <element id="dir-copy" path="$PROJECT_DIR$/item" />
+      </element>
+      <element id="directory" name="question_bank">
+        <element id="dir-copy" path="$PROJECT_DIR$/question_bank" />
+      </element>
+      <element id="directory" name="SA_config">
+        <element id="dir-copy" path="$PROJECT_DIR$/SA_config" />
+      </element>
+    </root>
+  </artifact>
+</component>

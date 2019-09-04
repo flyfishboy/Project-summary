@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="rootpane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="SA.GUI_and_Controller.FightHistory_controller">
+   <children>
+
+      <TableView layoutX="14.0" layoutY="14.0" prefHeight="380.0" prefWidth="578.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <columns>
+          <TableColumn prefWidth="159.0" text="开始时间" />
+          <TableColumn minWidth="5.0" prefWidth="78.0" text="答题数量" />
+           <TableColumn prefWidth="62.0" text="成绩" />
+           <TableColumn prefWidth="123.0" text="总耗时" />
+           <TableColumn prefWidth="89.0" text="难度系数" />
+           <TableColumn prefWidth="88.0" text="类型" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>
