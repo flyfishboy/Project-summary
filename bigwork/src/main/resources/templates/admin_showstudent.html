@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- Meta, title, CSS, favicons, etc. -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>显示所有学生</title>
+
+<!-- Bootstrap -->
+<link href="../vendors/bootstrap/dist/css/bootstrap.min.css"
+	rel="stylesheet">
+<!-- Font Awesome -->
+<link href="../vendors/font-awesome/css/font-awesome.min.css"
+	rel="stylesheet">
+<!-- NProgress -->
+<link href="../vendors/nprogress/nprogress.css" rel="stylesheet">
+<!-- iCheck -->
+<link href="../vendors/iCheck/skins/flat/green.css" rel="stylesheet">
+
+<!-- Custom Theme Style -->
+<link href="../build/css/custom.min.css" rel="stylesheet">
+
+<style>
+.ashow {
+	font-size: 16px;
+}
+</style>
+</head>
+
+<body class="nav-md">
+	<div class="container body">
+		<div class="main_container">
+			<div class="col-md-3 left_col">
+				<div class="left_col scroll-view">
+					<div class="navbar nav_title" style="border: 0;">
+						<a href="index.html" class="site_title"><i class="fa fa-paw"></i>
+							<span>管理员界面 !</span></a>
+					</div>
+
+					<div class="clearfix"></div>
+
+					<!-- menu profile quick info 侧边栏顶部的信息显示 开始-->
+					<div class="profile clearfix">
+						<div class="profile_pic">
+							<img src="images/img.jpg" alt="..."
+								class="img-circle profile_img">
+						</div>
+						<div class="profile_info">
+							<span>欢迎,</span>
+							<h2>管理员</h2>
+						</div>
+					</div>
+					<!-- /menu profile quick info 侧边栏顶部的信息显示 结束-->
+
+					<br />
+
+					<!-- sidebar menu 侧边栏 开始-->
+					<div id="sidebar-menu"
+						class="main_menu_side hidden-print main_menu">
+						<div class="menu_section">
+							<h3>菜单</h3>
+							<ul class="nav side-menu">
+								<li><a href="admin_showstudent"><i class="fa fa-edit"></i>
+										查看学生信息</a></li>
+
+								<li><a href="admin_addstudent"><i class="fa fa-desktop"></i>
+										添加学生信息 </a></li>
+
+
+
+								<li><a href="admin_showteacher"><i class="fa fa-clone"></i>
+										查看教师信息</a></li>
+
+								<li><a href="admin_addteacher"><i
+										class="fa fa-bar-chart-o"></i> 添加教师信息</a></li>
+
+
+
+
+							</ul>
+						</div>
+
+
+					</div>
+					<!-- /sidebar menu 侧边栏 结束-->
+
+					<!-- /menu footer buttons 侧边栏底部按钮 开始-->
+					<div class="sidebar-footer hidden-small">
+						<a data-toggle="tooltip" data-placement="top" title="Settings">
+							<span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
+						</a> <a data-toggle="tooltip" data-placement="top" title="FullScreen">
+							<span class="glyphicon glyphicon-fullscreen" aria-hidden="true"></span>
+						</a> <a data-toggle="tooltip" data-placement="top" title="Lock"> <span
+							class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>
+						</a> <a data-toggle="tooltip" data-placement="top" title="Logout"
+							href="/"> <span class="glyphicon glyphicon-off"
+							aria-hidden="true"></span>
+						</a>
+					</div>
+					<!-- /menu footer buttons 侧边栏底部按钮 结束-->
+				</div>
+			</div>
+
+			<!-- top navigation 顶部导航栏 开始-->
+			<div class="top_nav">
+				<div class="nav_menu">
+					<nav>
+						<div class="nav toggle">
+							<a id="menu_toggle"><i class="fa fa-bars"></i></a>
+						</div>
+
+						<ul class="nav navbar-nav navbar-right">
+							<li class=""><a href="javascript:;"
+								class="user-profile dropdown-toggle" data-toggle="dropdown"
+								aria-expanded="false"> <img src="images/img.jpg" alt="">管理员
+									<span class=" fa fa-angle-down"></span>
+							</a>
+								<ul class="dropdown-menu dropdown-usermenu pull-right">
+									<li><a href="javascript:;"> Profile</a></li>
+									<li><a href="javascript:;"> <span
+											class="badge bg-red pull-right">50%</span> <span>Settings</span>
+									</a></li>
+									<li><a href="javascript:;">Help</a></li>
+
+									<li><a href="/"><i class="fa fa-sign-out pull-right"></i>
+											Log Out</a></li>
+								</ul></li>
+
+
+						</ul>
+					</nav>
+				</div>
+			</div>
+			<!-- /top navigation 顶部导航栏 结束-->
+
+			<!-- page content 主要大面板 开始-->
+			<div class="right_col" role="main">
+				<div class="">
+					<div class="page-title">
+						<div class="title_left">
+							<h3>
+								显示 <small>学生信息</small>
+							</h3>
+						</div>
+
+						<div class="title_right">
+							<div
+								class="col-md-5 col-sm-5 col-xs-12 form-group pull-right top_search">
+								<div class="input-group">
+									<form method="post" action="admin_showstudent">
+
+										<input style="width: 200px;" name="s_name" type="text"
+											class="form-control" placeholder="姓名查找..."> <span
+											class="input-group-btn">
+											<button class="btn btn-default" type="submit">走你 !</button>
+										</span>
+									</form>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="clearfix"></div>
+
+					<div class="row">
+						<div class="col-md-12">
+							<div class="x_panel">
+								<div class="x_title">
+									<h2>学生</h2>
+									<ul class="nav navbar-right panel_toolbox">
+										<li><a class="collapse-link"><i
+												class="fa fa-chevron-up"></i></a></li>
+										<li class="dropdown"><a href="#" class="dropdown-toggle"
+											data-toggle="dropdown" role="button" aria-expanded="false"><i
+												class="fa fa-wrench"></i></a>
+											<ul class="dropdown-menu" role="menu">
+												<li><a href="admin_addstudent">添加学生</a></li>
+
+											</ul></li>
+										<li><a class="close-link"></a></li>
+									</ul>
+									<div class="clearfix"></div>
+								</div>
+
+
+
+
+								<div class="x_content">
+
+									<p>学生表单在这里嘤嘤嘤,右上角小扳手可以增加学生哦~~</p>
+
+									<!-- start project list -->
+									<table class="table table-striped projects">
+										<thead>
+											<tr>
+												<th style="width: 1%">#</th>
+												<th style="width: 10%">学号</th>
+
+												<th>姓名</th>
+												<th>性别</th>
+												<th>年龄</th>
+												<th>联系方式</th>
+												<th>班级</th>
+												<th style="width: 20%">#操作</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr th:each="student,status : ${student_list}">
+												<td class="ashow" th:text="${status.count}"></td>
+												<td class="ashow" th:text="${student.s_id}"></td>
+
+
+												<script>
+													
+												</script>
+
+
+												<td class="ashow" th:text="${student.s_name}"></td>
+												<td class="ashow" th:text="${student.s_sex}"></td>
+												<td class="ashow" th:text="${student.s_age}"></td>
+												<td class="ashow" th:text="${student.s_tel}"></td>
+												<td class="ashow" th:text="${student.s_class}"></td>
+												<td>
+													<form method="post" action="admin_tochangestudent">
+
+														<input type='hidden' name='oldid'
+															th:value="${student.s_id}" /> <input type="submit"
+															class="btn btn-info btn-xs" value="Edit" />
+													</form>
+
+
+
+													<form method="post" action="admin_deletestudent">
+
+														<input type='hidden' name='s_id'
+															th:value="${student.s_id}" /> <input type="submit"
+															class="btn btn-danger btn-xs" value="Delete" />
+													</form>
+												</td>
+											</tr>
+
+
+
+
+										</tbody>
+									</table>
+									<!-- end project list -->
+
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /page content 主要大面板 结束-->
+
+			<!-- footer content 主要大面板底部注释 开始-->
+			<footer>
+				<div class="pull-right">
+					显示学生信息界面 - Create by <a href="https://colorlib.com">砬</a>
+				</div>
+				<div class="clearfix"></div>
+			</footer>
+			<!-- /footer content 主要大面板底部注释 结束-->
+		</div>
+	</div>
+
+	<!-- jQuery -->
+	<script src="../vendors/jquery/dist/jquery.min.js"></script>
+	<!-- Bootstrap -->
+	<script src="../vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+	<!-- FastClick -->
+	<script src="../vendors/fastclick/lib/fastclick.js"></script>
+	<!-- NProgress -->
+	<script src="../vendors/nprogress/nprogress.js"></script>
+	<!-- bootstrap-progressbar -->
+	<script
+		src="../vendors/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+
+	<!-- Custom Theme Scripts -->
+	<script src="../build/js/custom.min.js"></script>
+</body>
+</html>
