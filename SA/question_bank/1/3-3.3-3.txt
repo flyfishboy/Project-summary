@@ -1,9 +1,0 @@
-﻿在一个java原文件中，import, class, package语句的顺序是_____。答案是3    难度是3.3
-
-A.        import class package
-
-B.        class import package
-
-C.        package class import
-
-D.        package import class
