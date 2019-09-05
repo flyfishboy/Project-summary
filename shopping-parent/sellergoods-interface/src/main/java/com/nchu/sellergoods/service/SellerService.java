@@ -11,6 +11,11 @@ import com.nchu.model.PageResult;
 public interface SellerService {
 
 	/**
+	 * 登录方法
+	 * @return
+	 */
+	public Seller login(Seller seller);
+	/**
 	 * 返回全部列表
 	 * @return
 	 */

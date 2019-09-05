@@ -1,4 +1,5 @@
 package com.nchu.sellergoods.service.impl;
+import java.util.Date;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import com.alibaba.dubbo.config.annotation.Service;
@@ -22,7 +23,28 @@ public class SellerServiceImpl implements SellerService {
 
 	@Autowired
 	private SellerMapper sellerMapper;
-	
+
+	//登录
+	@Override
+	public Seller login(Seller seller){
+		SellerExample example = new SellerExample();
+		Criteria criteria = example.createCriteria();
+		criteria.andSellerIdEqualTo(seller.getSellerId());
+		criteria.andPasswordEqualTo(seller.getPassword());
+		List<Seller> sellers = sellerMapper.selectByExample(example);
+		if (sellers == null || sellers.size() == 0){
+			seller = new Seller();
+			seller.setSellerId("000");
+
+		}else if(sellers.size() == 1){
+			seller = sellers.get(0);
+		}else {
+			seller = new Seller();
+			seller.setSellerId("111");
+		}
+		return seller;
+	}
+
 	/**
 	 * 查询全部
 	 */
@@ -46,6 +68,8 @@ public class SellerServiceImpl implements SellerService {
 	 */
 	@Override
 	public void add(Seller seller) {
+		seller.setStatus("0");
+		seller.setCreateTime(new Date());
 		sellerMapper.insert(seller);		
 	}
 
