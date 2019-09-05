@@ -36,7 +36,13 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     protected void configure(HttpSecurity http) throws Exception {
         http.authorizeRequests()
                 // 如果有允许匿名的url，填在下面
-//               .antMatchers().permitAll()
+               .antMatchers().permitAll()
+//                .anyRequest().authenticated()
+//                .and()
+                //文件夹认证
+                .antMatchers("/resources/**","/sigup","/about").permitAll()
+                .antMatchers("/admin/**").hasRole("ADMIN")
+                .antMatchers("/user/**").access("hasRole('USER')")
                 .anyRequest().authenticated()
                 .and()
                 // 设置登陆页
