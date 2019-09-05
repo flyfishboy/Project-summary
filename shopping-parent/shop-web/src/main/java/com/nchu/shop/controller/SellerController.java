@@ -26,7 +26,7 @@ public class SellerController {
 	@Reference
 	private SellerService sellerService;
 
-	//登录的方法
+	/*//登录的方法
 	@RequestMapping("/login")
 	public Result login(@RequestBody Seller seller, HttpServletRequest request){
 		Result result = null;
@@ -38,7 +38,7 @@ public class SellerController {
 			result = new Result(true,seller.getSellerId());
 		}
 		return result;
-	}
+	}*/
 	/**
 	 * 返回全部列表
 	 * @return
