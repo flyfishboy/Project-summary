@@ -22,7 +22,7 @@ public class UserDetailsServiceImpl implements UserDetailsService {
     private SellerService sellerService;
     @Override
     public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
-        Collection<GrantedAuthority> authorities = new ArrayList<>();
+        List<GrantedAuthority> authorities = new ArrayList<>();
         // 从数据库中取出用户信息
         Seller seller = sellerService.findOne(username);
 

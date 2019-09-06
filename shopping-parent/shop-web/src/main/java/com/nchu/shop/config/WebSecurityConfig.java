@@ -52,6 +52,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
         // 关闭CSRF跨域
         http.csrf().disable();
+        http.headers().frameOptions().sameOrigin();
     }
 
     @Override

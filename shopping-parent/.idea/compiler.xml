@@ -13,6 +13,7 @@
         <module name="content-interface" />
         <module name="content-service" />
         <module name="dao" />
+        <module name="file_operator" />
         <module name="generatemybatisfile" />
         <module name="item-web" />
         <module name="manager-web" />
@@ -41,6 +42,7 @@
       <module name="content-interface" target="1.8" />
       <module name="content-service" target="1.8" />
       <module name="dao" target="1.8" />
+      <module name="file_operator" target="1.8" />
       <module name="generatemybatisfile" target="1.8" />
       <module name="item-web" target="1.8" />
       <module name="manager-web" target="1.8" />
@@ -71,6 +73,7 @@
       <module name="content-interface" options="-parameters" />
       <module name="content-service" options="-parameters" />
       <module name="dao" options="-parameters" />
+      <module name="file_operator" options="-parameters" />
       <module name="generatemybatisfile" options="-parameters" />
       <module name="item-web" options="-parameters" />
       <module name="manager-web" options="-parameters" />

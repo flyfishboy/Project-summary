@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/content-interface/content-interface.iml" filepath="$PROJECT_DIR$/content-interface/content-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/content-service/content-service.iml" filepath="$PROJECT_DIR$/content-service/content-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/dao/dao.iml" filepath="$PROJECT_DIR$/dao/dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file_operator/file_operator.iml" filepath="$PROJECT_DIR$/file_operator/file_operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/generatemybatisfile/generatemybatisfile.iml" filepath="$PROJECT_DIR$/generatemybatisfile/generatemybatisfile.iml" />
       <module fileurl="file://$PROJECT_DIR$/item-web/item-web.iml" filepath="$PROJECT_DIR$/item-web/item-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/manager-web/manager-web.iml" filepath="$PROJECT_DIR$/manager-web/manager-web.iml" />
