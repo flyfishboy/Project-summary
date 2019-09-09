@@ -1,6 +1,9 @@
 package com.nchu.model;
 
-public class Content {
+import java.io.Serializable;
+import java.util.List;
+
+public class Content implements Serializable {
     private Long id;
 
     private Long categoryId;
@@ -69,5 +72,18 @@ public class Content {
 
     public void setSortOrder(Integer sortOrder) {
         this.sortOrder = sortOrder;
+    }
+
+    @Override
+    public String toString() {
+        return "Content{" +
+                "id=" + id +
+                ", categoryId=" + categoryId +
+                ", title='" + title + '\'' +
+                ", url='" + url + '\'' +
+                ", pic='" + pic + '\'' +
+                ", status='" + status + '\'' +
+                ", sortOrder=" + sortOrder +
+                '}';
     }
 }
