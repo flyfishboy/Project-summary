@@ -7,7 +7,8 @@ import java.util.List;
 public interface FileUrlService {
     public Integer addFileUrl(FileUrl fileUrl);
 
-    public List<FileUrl> getFileUrlByName(String fileName);
+    public List<FileUrl> getFileUrlsByName(String fileName);
 
-    public FileUrl getFileById(Integer id);
+    public FileUrl getFileUrlById(Integer id);
+
 }
