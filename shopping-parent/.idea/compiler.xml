@@ -25,6 +25,7 @@
         <module name="passport-web" />
         <module name="pojo" />
         <module name="portal-web" />
+        <module name="redisexample" />
         <module name="search-interface" />
         <module name="search-service" />
         <module name="search-web" />
@@ -54,6 +55,7 @@
       <module name="passport-web" target="1.8" />
       <module name="pojo" target="1.8" />
       <module name="portal-web" target="1.8" />
+      <module name="redisexample" target="1.8" />
       <module name="search-interface" target="1.8" />
       <module name="search-service" target="1.8" />
       <module name="search-web" target="1.8" />
@@ -85,6 +87,7 @@
       <module name="passport-web" options="-parameters" />
       <module name="pojo" options="-parameters" />
       <module name="portal-web" options="-parameters" />
+      <module name="redisexample" options="-parameters" />
       <module name="search-interface" options="-parameters" />
       <module name="search-service" options="-parameters" />
       <module name="search-web" options="-parameters" />

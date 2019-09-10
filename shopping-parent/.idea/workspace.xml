@@ -31,6 +31,7 @@
     <ignored path="$PROJECT_DIR$/shop-web/target/" />
     <ignored path="$PROJECT_DIR$/security/target/" />
     <ignored path="$PROJECT_DIR$/file_operator/target/" />
+    <ignored path="$PROJECT_DIR$/redisexample/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +40,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/portal-web/src/main/java/com/nchu/portal/controller/ContentController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            <state relative-caret-position="119">
+              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,79 +53,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portal-web/src/main/resources/static/js/service/contentService.js">
+        <entry file="file://$PROJECT_DIR$/redisexample/src/test/java/com/nchu/redisexample/RedisexampleApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="108">
+              <caret line="74" column="33" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portal-web/src/main/resources/static/js/base.js">
+        <entry file="file://$PROJECT_DIR$/redisexample/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="34" selection-start-column="34" selection-end-column="34" />
+            <state relative-caret-position="161">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portal-web/src/main/resources/static/js/base_pagination.js">
+        <entry file="file://$PROJECT_DIR$/shop-web/src/main/java/com/nchu/shop/ShopWebApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="26" selection-start-column="26" selection-end-column="26" />
+            <state relative-caret-position="253">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portal-web/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="410">
+              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portal-web/src/main/resources/static/js/czFunction.js">
+        <entry file="file://$PROJECT_DIR$/portal-web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-552" />
+            <state relative-caret-position="221">
+              <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+            </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portal-web/src/main/resources/static/js/controller/baseController.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portal-web/src/main/java/com/nchu/portal/PortalWebApplication.java">
+        <entry file="file://$PROJECT_DIR$/portal-web/src/main/java/com/nchu/portal/config/RedisConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portal-web/src/main/resources/static/js/controller/categoryController.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1380">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portal-web/src/main/resources/static/js/controller/contentController.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="64" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -134,10 +114,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
         <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="Interface" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -174,12 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/shop-web/src/main/resources/static/js/service/sellerService.js" />
-        <option value="$PROJECT_DIR$/sellergoods-service/src/main/java/com/nchu/sellergoods/service/impl/SellerServiceImpl.java" />
-        <option value="$PROJECT_DIR$/security/pom.xml" />
-        <option value="$PROJECT_DIR$/shop-web/pom.xml" />
-        <option value="$PROJECT_DIR$/shop-web/src/main/java/com/nchu/shop/config/UserDetailsService.java" />
-        <option value="$PROJECT_DIR$/shop-web/src/main/java/com/nchu/shop/ShopWebApplication.java" />
         <option value="$PROJECT_DIR$/shop-web/src/main/java/com/nchu/shop/controller/SellerController.java" />
         <option value="$PROJECT_DIR$/shop-web/src/main/resources/static/shoplogin.html" />
         <option value="$PROJECT_DIR$/security/src/main/java/com/nchu/security/config/WebSecurityConfig.java" />
@@ -204,7 +178,6 @@
         <option value="$PROJECT_DIR$/portal-web/src/main/resources/static/js/base.js" />
         <option value="$PROJECT_DIR$/portal-web/src/main/resources/static/js/base_pagination.js" />
         <option value="$PROJECT_DIR$/portal-web/src/main/resources/static/js/service/categoryService.js" />
-        <option value="$PROJECT_DIR$/portal-web/pom.xml" />
         <option value="$PROJECT_DIR$/content-service/pom.xml" />
         <option value="$PROJECT_DIR$/content-service/src/main/java/com/nchu/content/service/impl/ContentCategoryServiceImpl.java" />
         <option value="$PROJECT_DIR$/dao/src/main/java/com/nchu/mapper/ContentCategoryMapper.java" />
@@ -216,15 +189,22 @@
         <option value="$PROJECT_DIR$/content-service/src/main/java/com/nchu/content/service/impl/ContentServiceImpl.java" />
         <option value="$PROJECT_DIR$/content-service/src/main/java/com/nchu/content/ContentServiceApplication.java" />
         <option value="$PROJECT_DIR$/portal-web/src/main/resources/static/js/service/contentService.js" />
-        <option value="$PROJECT_DIR$/portal-web/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/portal-web/src/main/java/com/nchu/portal/PortalWebApplication.java" />
-        <option value="$PROJECT_DIR$/portal-web/src/main/java/com/nchu/portal/controller/ContentController.java" />
         <option value="$PROJECT_DIR$/portal-web/src/main/resources/static/index.html" />
         <option value="$PROJECT_DIR$/portal-web/src/main/resources/static/js/controller/categoryController.js" />
         <option value="$PROJECT_DIR$/file_operator/src/main/java/com/nchu/file_operator/service/FileUrlService.java" />
         <option value="$PROJECT_DIR$/file_operator/src/main/java/com/nchu/file_operator/controller/FileController.java" />
         <option value="$PROJECT_DIR$/file_operator/src/main/java/com/nchu/file_operator/service/impl/FileUrlServiceImpl.java" />
         <option value="$PROJECT_DIR$/portal-web/src/main/resources/static/js/controller/contentController.js" />
+        <option value="$PROJECT_DIR$/redisexample/pom.xml" />
+        <option value="$PROJECT_DIR$/redisexample/src/main/java/com/nchu/redisexample/config/RedisAutoConfigure.java" />
+        <option value="$PROJECT_DIR$/redisexample/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/redisexample/src/main/java/com/nchu/redisexample/RedisexampleApplication.java" />
+        <option value="$PROJECT_DIR$/redisexample/src/test/java/com/nchu/redisexample/RedisexampleApplicationTests.java" />
+        <option value="$PROJECT_DIR$/portal-web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/portal-web/src/main/java/com/nchu/portal/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/portal-web/src/main/java/com/nchu/portal/controller/ContentController.java" />
       </list>
     </option>
   </component>
@@ -296,11 +276,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="482" />
-    <option name="y" value="232" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="263" />
+    <option name="y" value="120" />
     <option name="width" value="1343" />
-    <option name="height" value="798" />
+    <option name="height" value="767" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -362,25 +342,59 @@
             <path>
               <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="sellergoods-service" type="462c0819:PsiDirectoryNode" />
+              <item name="portal-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="sellergoods-service" type="462c0819:PsiDirectoryNode" />
+              <item name="redisexample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="redisexample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="sellergoods-service" type="462c0819:PsiDirectoryNode" />
+              <item name="redisexample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="sellergoods-service" type="462c0819:PsiDirectoryNode" />
+              <item name="redisexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -388,37 +402,11 @@
             <path>
               <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="sellergoods-service" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sellergoods" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="sellergoods-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -427,36 +415,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopping-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopping-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -474,7 +432,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568096850553" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568110346186" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/shop-web" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -522,21 +480,7 @@
     </option>
     <option name="contentProportion" value="0.19672132" />
   </component>
-  <component name="RunManager" selected="Spring Boot.FileOperatorApplication">
-    <configuration name="DaoApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="dao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nchu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.nchu.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.nchu.dao.DaoApplicationTests" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.PortalWebApplication">
     <configuration name="DaoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="dao" />
       <extension name="coverage">
@@ -548,6 +492,86 @@
       <option name="PACKAGE_NAME" value="com.nchu.dao" />
       <option name="MAIN_CLASS_NAME" value="com.nchu.dao.DaoApplicationTests" />
       <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisexampleApplicationTests.TestDeleteRedisValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redisexample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nchu.redisexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nchu.redisexample" />
+      <option name="MAIN_CLASS_NAME" value="com.nchu.redisexample.RedisexampleApplicationTests" />
+      <option name="METHOD_NAME" value="TestDeleteRedisValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisexampleApplicationTests.TestRedisList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redisexample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nchu.redisexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nchu.redisexample" />
+      <option name="MAIN_CLASS_NAME" value="com.nchu.redisexample.RedisexampleApplicationTests" />
+      <option name="METHOD_NAME" value="TestRedisList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisexampleApplicationTests.TestRedisSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redisexample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nchu.redisexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nchu.redisexample" />
+      <option name="MAIN_CLASS_NAME" value="com.nchu.redisexample.RedisexampleApplicationTests" />
+      <option name="METHOD_NAME" value="TestRedisSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisexampleApplicationTests.TestRedisValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redisexample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nchu.redisexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nchu.redisexample" />
+      <option name="MAIN_CLASS_NAME" value="com.nchu.redisexample.RedisexampleApplicationTests" />
+      <option name="METHOD_NAME" value="TestRedisValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisexampleApplicationTests.TestupdateRedisValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redisexample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nchu.redisexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nchu.redisexample" />
+      <option name="MAIN_CLASS_NAME" value="com.nchu.redisexample.RedisexampleApplicationTests" />
+      <option name="METHOD_NAME" value="TestupdateRedisValues" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -712,6 +736,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RedisexampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redisexample" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.redisexample.RedisexampleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SearchInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="search-interface" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.searchinterface.SearchInterfaceApplication" />
@@ -763,7 +794,6 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.DaoApplicationTests.contextLoads" />
-      <item itemvalue="JUnit.DaoApplicationTests" />
       <item itemvalue="Maven.generator" />
       <item itemvalue="Spring Boot.DaoApplication" />
       <item itemvalue="Spring Boot.GeneratemybatisfileApplication" />
@@ -791,10 +821,20 @@
       <item itemvalue="Spring Boot.ContentServiceApplication" />
       <item itemvalue="Spring Boot.SecurityApplication" />
       <item itemvalue="Spring Boot.FileOperatorApplication" />
+      <item itemvalue="Spring Boot.RedisexampleApplication" />
+      <item itemvalue="JUnit.RedisexampleApplicationTests.TestRedisValues" />
+      <item itemvalue="JUnit.RedisexampleApplicationTests.TestupdateRedisValues" />
+      <item itemvalue="JUnit.RedisexampleApplicationTests.TestDeleteRedisValues" />
+      <item itemvalue="JUnit.RedisexampleApplicationTests.TestRedisSet" />
+      <item itemvalue="JUnit.RedisexampleApplicationTests.TestRedisList" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DaoApplicationTests" />
+        <item itemvalue="JUnit.RedisexampleApplicationTests.TestRedisList" />
+        <item itemvalue="JUnit.RedisexampleApplicationTests.TestDeleteRedisValues" />
+        <item itemvalue="JUnit.RedisexampleApplicationTests.TestRedisSet" />
+        <item itemvalue="JUnit.RedisexampleApplicationTests.TestupdateRedisValues" />
+        <item itemvalue="JUnit.RedisexampleApplicationTests.TestRedisValues" />
       </list>
     </recent_temporary>
   </component>
@@ -822,44 +862,44 @@
       <workItem from="1567732105832" duration="9413000" />
       <workItem from="1567818152103" duration="642000" />
       <workItem from="1567990807324" duration="23776000" />
-      <workItem from="1568077156234" duration="6959000" />
+      <workItem from="1568077156234" duration="14943000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 10h 12m 05s.xml">
-      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    <history-entry file="RedisexampleApplicationTests_TestDeleteRedisValues - 2019.09.10 at 17h 36m 16s.xml">
+      <configuration name="RedisexampleApplicationTests.TestDeleteRedisValues" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DaoApplicationTests - 2019.08.29 at 10h 17m 29s.xml">
-      <configuration name="DaoApplicationTests" configurationId="JUnit" />
+    <history-entry file="RedisexampleApplicationTests_TestRedisList - 2019.09.10 at 17h 39m 26s.xml">
+      <configuration name="RedisexampleApplicationTests.TestRedisList" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 10h 20m 33s.xml">
-      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    <history-entry file="RedisexampleApplicationTests_TestRedisSet - 2019.09.10 at 17h 39m 47s.xml">
+      <configuration name="RedisexampleApplicationTests.TestRedisSet" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 10h 23m 29s.xml">
-      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    <history-entry file="RedisexampleApplicationTests_TestRedisList - 2019.09.10 at 17h 40m 05s.xml">
+      <configuration name="RedisexampleApplicationTests.TestRedisList" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 10h 30m 35s.xml">
-      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    <history-entry file="RedisexampleApplicationTests_TestDeleteRedisValues - 2019.09.10 at 17h 40m 59s.xml">
+      <configuration name="RedisexampleApplicationTests.TestDeleteRedisValues" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 11h 13m 00s.xml">
-      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    <history-entry file="RedisexampleApplicationTests_TestRedisList - 2019.09.10 at 17h 43m 35s.xml">
+      <configuration name="RedisexampleApplicationTests.TestRedisList" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 11h 16m 45s.xml">
-      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    <history-entry file="RedisexampleApplicationTests_TestRedisList - 2019.09.10 at 17h 44m 55s.xml">
+      <configuration name="RedisexampleApplicationTests.TestRedisList" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 11h 21m 51s.xml">
-      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    <history-entry file="RedisexampleApplicationTests_TestRedisList - 2019.09.10 at 17h 46m 55s.xml">
+      <configuration name="RedisexampleApplicationTests.TestRedisList" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 11h 24m 29s.xml">
-      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    <history-entry file="RedisexampleApplicationTests_TestRedisList - 2019.09.10 at 17h 48m 14s.xml">
+      <configuration name="RedisexampleApplicationTests.TestRedisList" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 11h 27m 03s.xml">
-      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    <history-entry file="RedisexampleApplicationTests_TestRedisList - 2019.09.10 at 17h 48m 54s.xml">
+      <configuration name="RedisexampleApplicationTests.TestRedisList" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195598000" />
+    <option name="totallyTimeSpent" value="203582000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -871,9 +911,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="211" y="96" width="1074" height="613" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16957104" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24901575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -883,7 +923,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33891213" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4813278" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -892,15 +932,15 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32861635" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.31101814" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3096647" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32704404" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.31101814" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.43983403" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.1930295" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.28346458" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -913,57 +953,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/shop-web/src/main/java/com/nchu/shop/config/WebSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/security/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file_operator/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-87">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content-interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manager-web/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content-interface/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portal-web/src/main/resources/static/css/webbase.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portal-web/src/main/resources/static/plugins/angularjs/pagination.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/nchu/mapper/AddressMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/nchu/mapper/AreaMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="83">
@@ -1103,13 +1092,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portal-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content-service/src/main/java/com/nchu/content/ContentServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -1232,16 +1214,6 @@
     <entry file="file://$PROJECT_DIR$/portal-web/src/main/resources/static/js/controller/baseController.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/portal-web/src/main/java/com/nchu/portal/controller/ContentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portal-web/src/main/java/com/nchu/portal/PortalWebApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -1292,10 +1264,100 @@
         <state relative-caret-position="-552" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/redisexample/src/main/java/com/nchu/redisexample/RedisexampleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redisexample/src/main/java/com/nchu/redisexample/config/RedisConfigure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redisexample/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-web/src/main/java/com/nchu/shop/ShopWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redisexample/src/test/java/com/nchu/redisexample/RedisexampleApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="74" column="33" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redisexample/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/portal-web/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="410">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-web/src/main/java/com/nchu/portal/config/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-web/src/main/java/com/nchu/portal/controller/ContentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
