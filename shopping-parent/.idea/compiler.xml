@@ -33,6 +33,7 @@
         <module name="sellergoods-interface" />
         <module name="sellergoods-service" />
         <module name="shop-web" />
+        <module name="solrdemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -64,6 +65,7 @@
       <module name="sellergoods-service" target="1.8" />
       <module name="shop-web" target="1.8" />
       <module name="shopping-parent" target="1.8" />
+      <module name="solrdemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -96,6 +98,7 @@
       <module name="sellergoods-service" options="-parameters" />
       <module name="shop-web" options="-parameters" />
       <module name="shopping-parent" options="-parameters" />
+      <module name="solrdemo" options="-parameters" />
     </option>
   </component>
 </project>

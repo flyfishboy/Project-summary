@@ -1,53 +1,56 @@
 package com.nchu.model;
 
-import java.math.BigDecimal;
+import org.apache.solr.client.solrj.beans.Field;
+
+import java.io.Serializable;
 import java.util.Date;
 
-public class Item {
+public class Item implements Serializable {
+    @Field("id")
     private Long id;
-
+    @Field("title")
     private String title;
-
+    @Field("sell_point")
     private String sellPoint;
-
-    private BigDecimal price;
-
+    @Field("price")
+    private double price;
+    @Field("stock_count")
     private Integer stockCount;
-
+    @Field("num")
     private Integer num;
-
+    @Field("barcode")
     private String barcode;
 
     private String image;
-
+    @Field("categoryId")
     private Long categoryid;
-
+    @Field("status")
     private String status;
-
+    @Field("create_time")
     private Date createTime;
-
+    @Field("update_time")
     private Date updateTime;
-
+    @Field("item_sn")
     private String itemSn;
-
-    private BigDecimal costPirce;
-
-    private BigDecimal marketPrice;
-
+    @Field("cost_price")
+    private double costPirce;
+    @Field("marke_price")
+    private double marketPrice;
+    @Field("is_default")
     private String isDefault;
-
+    @Field("goods_id")
     private Long goodsId;
-
+    @Field("seler_id")
     private String sellerId;
-
+    @Field("cart_thumbnail")
     private String cartThumbnail;
-
+    @Field("category")
     private String category;
-
+    @Field("brand")
     private String brand;
-
+    @Field("spec")
     private String spec;
-
+    @Field("seller")
     private String seller;
 
     public Long getId() {
@@ -74,11 +77,11 @@ public class Item {
         this.sellPoint = sellPoint == null ? null : sellPoint.trim();
     }
 
-    public BigDecimal getPrice() {
+    public double getPrice() {
         return price;
     }
 
-    public void setPrice(BigDecimal price) {
+    public void setPrice(double price) {
         this.price = price;
     }
 
@@ -154,19 +157,19 @@ public class Item {
         this.itemSn = itemSn == null ? null : itemSn.trim();
     }
 
-    public BigDecimal getCostPirce() {
+    public double getCostPirce() {
         return costPirce;
     }
 
-    public void setCostPirce(BigDecimal costPirce) {
+    public void setCostPirce(double costPirce) {
         this.costPirce = costPirce;
     }
 
-    public BigDecimal getMarketPrice() {
+    public double getMarketPrice() {
         return marketPrice;
     }
 
-    public void setMarketPrice(BigDecimal marketPrice) {
+    public void setMarketPrice(double marketPrice) {
         this.marketPrice = marketPrice;
     }
 
@@ -232,5 +235,34 @@ public class Item {
 
     public void setSeller(String seller) {
         this.seller = seller == null ? null : seller.trim();
+    }
+
+    @Override
+    public String toString() {
+        return "Item{" +
+                "id=" + id +
+                ", title='" + title + '\'' +
+                ", sellPoint='" + sellPoint + '\'' +
+                ", price=" + price +
+                ", stockCount=" + stockCount +
+                ", num=" + num +
+                ", barcode='" + barcode + '\'' +
+                ", image='" + image + '\'' +
+                ", categoryid=" + categoryid +
+                ", status='" + status + '\'' +
+                ", createTime=" + createTime +
+                ", updateTime=" + updateTime +
+                ", itemSn='" + itemSn + '\'' +
+                ", costPirce=" + costPirce +
+                ", marketPrice=" + marketPrice +
+                ", isDefault='" + isDefault + '\'' +
+                ", goodsId=" + goodsId +
+                ", sellerId='" + sellerId + '\'' +
+                ", cartThumbnail='" + cartThumbnail + '\'' +
+                ", category='" + category + '\'' +
+                ", brand='" + brand + '\'' +
+                ", spec='" + spec + '\'' +
+                ", seller='" + seller + '\'' +
+                '}';
     }
 }

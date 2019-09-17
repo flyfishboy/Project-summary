@@ -32,12 +32,17 @@ public class ContentController {
 	public List<Content> findByCategoryId(Long categoryId) {
 		List<Content> contentList = null;
 		//先从redis中取出数据
-		contentList = (List<Content>)redisTemplate.boundHashOps("content").get("categoryId");
+		try{
+			contentList = (List<Content>)redisTemplate.boundHashOps("content").get("categoryId");
+		}catch (Exception e){
+			e.printStackTrace();
+		}
+
 		//取出数据做判断
 		if (contentList == null||contentList.size()==0) {
 			contentList = contentService.findByCategortId(categoryId);
-			redisTemplate.boundHashOps("content").put("categoryId",contentList);
-			redisTemplate.boundHashOps("content").expire(600, TimeUnit.SECONDS);
+		//	redisTemplate.boundHashOps("content").put("categoryId",contentList);
+		//	redisTemplate.boundHashOps("content").expire(600, TimeUnit.SECONDS);
 		}
 		return contentList;
 	}

@@ -31,6 +31,7 @@
         <option value="$PROJECT_DIR$/security/pom.xml" />
         <option value="$PROJECT_DIR$/file_operator/pom.xml" />
         <option value="$PROJECT_DIR$/redisexample/pom.xml" />
+        <option value="$PROJECT_DIR$/solrdemo/pom.xml" />
       </list>
     </option>
   </component>
