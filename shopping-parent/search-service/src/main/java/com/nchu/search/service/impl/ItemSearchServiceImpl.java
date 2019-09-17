@@ -3,7 +3,6 @@ package com.nchu.search.service.impl;
 import com.alibaba.dubbo.config.annotation.Service;
 import com.nchu.model.Item;
 import com.nchu.search.service.ItemSearchService;
-import org.apache.solr.client.solrj.SolrQuery;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.solr.core.SolrTemplate;

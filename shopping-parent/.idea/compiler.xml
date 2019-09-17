@@ -9,6 +9,7 @@
         <module name="cart-interface" />
         <module name="cart-service" />
         <module name="cart-web" />
+        <module name="casdemo" />
         <module name="common" />
         <module name="content-interface" />
         <module name="content-service" />
@@ -40,6 +41,7 @@
       <module name="cart-interface" target="1.8" />
       <module name="cart-service" target="1.8" />
       <module name="cart-web" target="1.8" />
+      <module name="casdemo" target="1.8" />
       <module name="common" target="1.8" />
       <module name="content-interface" target="1.8" />
       <module name="content-service" target="1.8" />
@@ -73,6 +75,7 @@
       <module name="cart-interface" options="-parameters" />
       <module name="cart-service" options="-parameters" />
       <module name="cart-web" options="-parameters" />
+      <module name="casdemo" options="-parameters" />
       <module name="common" options="-parameters" />
       <module name="content-interface" options="-parameters" />
       <module name="content-service" options="-parameters" />

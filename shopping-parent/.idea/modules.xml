@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/cart-interface/cart-interface.iml" filepath="$PROJECT_DIR$/cart-interface/cart-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/cart-service/cart-service.iml" filepath="$PROJECT_DIR$/cart-service/cart-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/cart-web/cart-web.iml" filepath="$PROJECT_DIR$/cart-web/cart-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casdemo/casdemo.iml" filepath="$PROJECT_DIR$/casdemo/casdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/content-interface/content-interface.iml" filepath="$PROJECT_DIR$/content-interface/content-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/content-service/content-service.iml" filepath="$PROJECT_DIR$/content-service/content-service.iml" />
