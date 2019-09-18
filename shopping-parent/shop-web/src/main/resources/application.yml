@@ -1,0 +1,9 @@
+fdfs:
+  connect-timeout: 10000
+  so-timeout: 3000
+  tracker-list:
+    - 10.10.84.153:22122
+spring:
+  servlet:
+    multipart:
+      max-request-size: 10MB
